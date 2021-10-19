@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="cars2.xsl" type="text/xsl"?>
+<cars>
+    <car color="red">
+        <brand>Renault</brand>
+        <model>1998</model>
+        <daily_price>10</daily_price>
+        <description>En güzel birinci arabamız.</description>
+        <rental_date>02-08-2021</rental_date>
+    </car> 
+    <car color="yellow">
+        <brand type="Hatchback">Mercedes</brand>
+        <model>1950</model>
+        <daily_price>1000</daily_price>
+        <description>En güzel ikinci arabamız.</description>
+        <rental_date>03-08-2021</rental_date>
+    </car> 
+    <car color="black">
+        <brand>Bmw</brand>
+        <model>2010</model>
+        <daily_price>260</daily_price>
+        <description>En güzel üçüncü arabamız.</description>
+        <rental_date>04-08-2021</rental_date>
+    </car> 
+    <car color="blue">
+        <brand type="Hatchback">Toyota</brand>
+        <model>2004</model>
+        <daily_price>200</daily_price>
+        <description>En güzel dördüncü arabamız.</description>
+        <rental_date>05-08-2021</rental_date>
+    </car> 
+</cars>
